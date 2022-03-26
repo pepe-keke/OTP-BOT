@@ -1,0 +1,2 @@
+# OTP-BOT
+Make ticket if interested: https://discord.gg/qHsTJTupTA  Features: Number spoofing, Call to any number, Call status see call status (ringing, in progress, completed, failed, busy etc), Call recording (hear what person says in the call), Numbers command (see spoofing numbers), Call command (.call (their number) (number you want to spoof as) (their name) (company name)), CVV Script (get card cvv code), Call as any company (venmo, paypal , rovinhood, wellsfargo, amazon, cashapp, coinbase, crypto .etc), Good calling scripts.
